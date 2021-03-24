@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 
 // setting a session so that i am logged in and can go back
@@ -7,3 +8,6 @@ if(!isset($_SESSION["userLoggedIn"])) {
     header("Location: register.php");
 }
 ?>
+=======
+  
+>>>>>>> origin/master
